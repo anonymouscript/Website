@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cars",
+    "\\cars\\js",
+    "\\cars\\js\\classes",
+    "\\cars\\js\\classes\\util",
+    "\\toolbox",
+    "\\toolbox\\js",
+    "\\toolbox\\js\\classes",
+    "\\toolbox\\js\\classes\\comp",
+    "\\toolbox\\js\\classes\\mc",
+    "\\toolbox\\js\\classes\\util"
+  ],
+  "SelectedNode": "\\cars\\js\\classes\\mc\\Controller.js",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,4 @@
+// JavaScript source code
+function zUndef(variable){
+  return typeof variable ? variable : 0;
+}
